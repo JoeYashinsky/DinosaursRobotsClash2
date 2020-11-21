@@ -9,7 +9,8 @@ namespace Robos_and_Dinos_Practice_Proj
     class Weapon
     {
         //member variables (HAS A)
-
+        public string type;
+        public int attackPower;
 
 
         // constructor (SPAWNER)
