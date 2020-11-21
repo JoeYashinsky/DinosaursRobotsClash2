@@ -17,7 +17,15 @@ namespace Robos_and_Dinos_Practice_Proj
 
 
         // constructor (SPAWNER)       (this is where I will assign the member variables their initial values)
+        public Dinosaur()
+        {
+            this.type = type;
+            health = 100;
+            energy = 100;
+            Random randomDinoNumber = new Random();
+            attackPower = randomDinoNumber.Next(10, 21);
 
+        }
 
 
 
