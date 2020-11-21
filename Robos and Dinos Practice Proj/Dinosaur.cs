@@ -8,15 +8,15 @@ namespace Robos_and_Dinos_Practice_Proj
 {
     class Dinosaur
     {
-        //member variables (HAS A)
-        public string type;
+        //member variables (HAS A)    (declaring the variables)
+        public string type;        
         public int health;
         public int energy;
         public int attackPower;
 
 
 
-        // constructor (SPAWNER)
+        // constructor (SPAWNER)       (this is where I will assign the member variables their initial values)
 
 
 
