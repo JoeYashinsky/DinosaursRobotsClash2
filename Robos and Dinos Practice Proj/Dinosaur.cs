@@ -17,7 +17,7 @@ namespace Robos_and_Dinos_Practice_Proj
 
 
         // constructor (SPAWNER)       (this is where I will assign the member variables their initial values)
-        public Dinosaur()
+        public Dinosaur(string type)
         {
             this.type = type;
             health = 100;
