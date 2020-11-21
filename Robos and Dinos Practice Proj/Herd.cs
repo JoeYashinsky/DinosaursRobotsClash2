@@ -8,5 +8,16 @@ namespace Robos_and_Dinos_Practice_Proj
 {
     class Herd
     {
+
+        //member variables (HAS A)
+
+
+
+        // constructor (SPAWNER)
+
+
+
+
+        // member methods (CAN DO)
     }
 }
