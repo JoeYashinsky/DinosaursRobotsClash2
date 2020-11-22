@@ -51,10 +51,12 @@ namespace Robos_and_Dinos_Practice_Proj
             }
             if(herd.dinosaurs.Count > 0)
             {
+                Console.WriteLine("");
                 Console.WriteLine("Life finds a way. Dinosaurs have won");
             }
             else
             {
+                Console.WriteLine("");
                 Console.WriteLine("Robots are victorioous. Celebratory screening of 'I, Robot' later tonight!");
             }
             

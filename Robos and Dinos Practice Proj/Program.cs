@@ -10,7 +10,10 @@ namespace Robos_and_Dinos_Practice_Proj
     {
         static void Main(string[] args)
         {
-            
+            Battlefield battlefield = new Battlefield();
+            battlefield.FightToTheDeath();
+
+            Console.ReadLine();
         }
     }
 }
