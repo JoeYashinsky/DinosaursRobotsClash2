@@ -36,8 +36,12 @@ namespace Robos_and_Dinos_Practice_Proj
 
 
 
-
         // member methods (CAN DO)
+        public void Attack(Dinosaur dinoTarget)
+        {
+            dinoTarget.health -= weapon.attackPower;
+
+        }
 
 
 
