@@ -1,1 +1,1 @@
-# DinosaursRobotsClash2
+Created a console application that pits dinosaurs against robots on a virtual battlefield. There are three robots and three dinosaurs per side. Random attack values are attached to each virtual dino or robot, and when a clash occurs, the defeated robo/dino loses health points. When those health points reach zero, that specific robo/dino is eliminated from battle. This sequence continues until there are zero participants remaining on one of the sides.
